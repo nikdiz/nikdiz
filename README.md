@@ -3,12 +3,12 @@
 - :telescope: Завершил курс "Инженер программист".
 - :seedling: Завершил курс от STEPIK "Поколение Python: курс для начинающих".
 - :zap: Являюсь студентом федеральной академии TOP.
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gikilol)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-gikilol-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/gikilol)
 ---
 ### 💻 Технологии:
 <div>
-  <img src="[https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg](https://icons8.ru/icon/13441/питон)" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
+  <img src="https://icons8.ru/icon/13441/питон" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://icons8.ru/icon/40669/c++" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 ---
@@ -27,17 +27,9 @@
 <!-- ### 💻 Пройденные курсы:
 | Курсы                                                           | Дата              |
 | ----------------------------------------------------------------| :---------------: |
-| netology.ru/Старт в программировании                            | 02/2022 - 03/2022 |
-| stepik.org/Основы программирования на C. Задачи.                | 02/2022 - 03/2022 |
-| netology.ru/Основы верстки сайта                                | 02/2022 - 03/2022 |
-| netology.ru/Первые шаги в JavaScript: создаём сайт и приложение | 02/2022 - 03/2022 |
-| stepik.org/Веб-разработка для начинающих: HTML и CSS            | 02/2022 - 03/2022 |
-| stepik.org/JavaScript для начинающих                            | 01/2023 - 01/2023 |
-| stepik.org/Web-технологии: начальный уровень                    | 01/2023 - 01/2023 |
-| practicum.yandex/Факультет Веб разработки                       | 05/2022 - xx/2023 |
+| stepik.org/"Поколение Python: курс для начинающих"               | 02/2023 - 03/2023 |
 --- -->
-### 💻 Codewars:
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
+
 ### ⚙️ GitHub статистика:
 <table>
   <tr>
