@@ -20,8 +20,8 @@ My telegram
 
 
 - <img src="https://cdn-icons-png.flaticon.com/512/1995/1995485.png" title="git" alt="git" width="20" height="20"/> 
-- <img src="https://designer.ru/upload/iblock/07c/39762343_2037097919647488_218580141347962880_n.png" title="git" alt="git" width="20" height="20"/> Завершил курс от STEPIK "Поколение Python: курс для начинающих".
-- <img src="https://tt-data.tutortop.ru/schools/sqspPXA4ZtQMSgm3rv100lvJy7uv09GJ7dpU3T8b.png" title="git" alt="git" width="20" height="20"/> Являюсь студентом федеральной академии TOP.
+- <img src="https://designer.ru/upload/iblock/07c/39762343_2037097919647488_218580141347962880_n.png" title="git" alt="git" width="20" height="20"/> 
+- <img src="https://tt-data.tutortop.ru/schools/sqspPXA4ZtQMSgm3rv100lvJy7uv09GJ7dpU3T8b.png" title="git" alt="git" width="20" height="20"/> 
 ---
 ### 💻 Технологии:
 <div>
