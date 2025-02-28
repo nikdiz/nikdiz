@@ -10,7 +10,7 @@ My telegram
 </div>
 
 <div id="badges"align="center">
-  <a href="https://t.me/gikilol">
+  <a href="">
    <img src="https://img.shields.io/badge/-gikilol-blue?style=flat&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
