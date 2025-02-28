@@ -11,7 +11,7 @@ My telegram
 
 <div id="badges"align="center">
   <a href="">
-   <img src="https://img.shields.io/badge/-gikilol-blue?style=flat&logo=Telegram&logoColor=white" alt="LinkedIn Badge"/>
+   <img src=""/>
   </a>
 </div>
 
